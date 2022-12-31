@@ -1,4 +1,4 @@
-## OOPPython
+# OOPPython
 Repository for a Python OOP project. <br/>
 This one was based on the course: https://www.youtube.com/watch?v=Ej_02ICOIgs. Thanks to the creator. <br/>
 Thanks also to those responsible for these posts that helped me complete some parts of the project: <br/>
